@@ -1,0 +1,31 @@
+/* Type selector only. */
+div > p {
+    background-color: #ffff18;
+    color: #f55555;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Class selector only. */
+/* .container > .text {
+    background-color: #ffff18;
+    color: #f55555;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* Class and type selector*/
+/* .container > p {
+    background-color: #ffff18;
+    color: #f55555;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* Type and class selector */
+/* div > .text {
+    background-color: #ffff18;
+    color: #f55555;
+    font-size: 20px;
+    text-align: center;
+} */
