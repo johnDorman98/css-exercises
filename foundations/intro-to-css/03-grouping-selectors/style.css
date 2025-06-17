@@ -1,0 +1,14 @@
+.night-mode-btn,
+.yellow-btn {
+    font-family: Helvetica, "Times New Roman", with sans-serif;
+    font-size: 28px;
+}
+
+.night-mode-btn {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.yellow-btn {
+    background-color: #dada11;
+}
